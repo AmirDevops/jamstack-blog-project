@@ -21,5 +21,5 @@ $ yarn dev --port 3500
 $ yarn generate
 
 # view a production version of your app
-$ yarn start
+$ yarn start --port 3500
 ```
