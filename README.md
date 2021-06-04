@@ -14,8 +14,8 @@ Click here to view the [demo](https://blog-with-nuxt-content.netlify.app/)
 # install dependencies
 $ yarn
 
-# serve with hot reload at localhost:3000
-$ yarn dev
+# serve with hot reload at localhost:3500
+$ yarn dev --port 3500
 
 # generate static project
 $ yarn generate
